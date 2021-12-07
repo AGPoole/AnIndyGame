@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 153b6d54c3df7ae498365e113d506449
+timeCreated: 1471467516
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: snake_0
+    21300002: snake_1
+    21300004: snake_2
+    21300006: snake_3
+    21300008: snake_4
+    21300010: snake_5
+    21300012: snake_6
+    21300014: snake_7
+    21300016: snake_8
+    21300018: snake_9
+    21300020: snake_10
+    21300022: snake_11
+    21300024: snake_12
+    21300026: snake_13
+    21300028: snake_14
+    21300030: snake_15
+    21300032: snake_16
+    21300034: snake_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: snake_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 613
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 59.496384}
+        - {x: -17, y: 59.496384}
+        - {x: -28, y: 48.496384}
+        - {x: -63, y: -30.503616}
+        - {x: -63, y: -58.503616}
+        - {x: 51, y: -58.503616}
+        - {x: 63, y: -32.503616}
+        - {x: 63, y: 54.496384}
+    - name: snake_1
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 936
+        width: 598
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.996384, y: 58.496384}
+        - {x: -21.003616, y: 58.496384}
+        - {x: -46.003616, y: 50.496384}
+        - {x: -61.003616, y: -14.503616}
+        - {x: -61.003616, y: -57.503616}
+        - {x: 47.996384, y: -57.503616}
+        - {x: 58.996384, y: -45.503616}
+        - {x: 61.996384, y: -34.503616}
+    - name: snake_2
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 936
+        width: 644
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.12851, y: 59.496384}
+        - {x: -14.8714905, y: 59.496384}
+        - {x: -65.87149, y: -7.5036163}
+        - {x: -65.87149, y: -58.503616}
+        - {x: 42.12851, y: -58.503616}
+        - {x: 55.12851, y: -46.503616}
+        - {x: 66.12851, y: -0.50361633}
+        - {x: 66.12851, y: 39.496384}
+    - name: snake_3
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 936
+        width: 654
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.375366, y: 50.496384}
+        - {x: 55.375366, y: 59.496384}
+        - {x: -9.624634, y: 59.496384}
+        - {x: -66.62463, y: 2.4963837}
+        - {x: -66.62463, y: -58.503616}
+        - {x: 47.375366, y: -58.503616}
+        - {x: 68.37537, y: -20.503616}
+        - {x: 68.37537, y: 37.496384}
+    - name: snake_4
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 936
+        width: 620
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.287903, y: 59.496384}
+        - {x: -63.287903, y: -32.503616}
+        - {x: -63.287903, y: -58.503616}
+        - {x: 53.712097, y: -58.503616}
+        - {x: 64.7121, y: -49.503616}
+        - {x: 64.7121, y: 59.496384}
+    - name: snake_5
+      rect:
+        serializedVersion: 2
+        x: 4719
+        y: 936
+        width: 527
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.0390625, y: 59.496384}
+        - {x: -39.039062, y: 38.496384}
+        - {x: -54.039062, y: -16.503616}
+        - {x: -54.039062, y: -58.503616}
+        - {x: 54.960938, y: -58.503616}
+        - {x: 54.960938, y: 53.496384}
+        - {x: 52.960938, y: 59.496384}
+    - name: snake_6
+      rect:
+        serializedVersion: 2
+        x: 5653
+        y: 936
+        width: 502
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.451904, y: 60.996384}
+        - {x: -38.451904, y: 52.996384}
+        - {x: -51.451904, y: -17.003616}
+        - {x: -51.451904, y: -60.003616}
+        - {x: 52.548096, y: -60.003616}
+        - {x: 52.548096, y: 41.996384}
+        - {x: 36.548096, y: 60.996384}
+    - name: snake_7
+      rect:
+        serializedVersion: 2
+        x: 6575
+        y: 936
+        width: 620
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.819702, y: 60.996384}
+        - {x: -63.819702, y: -6.0036163}
+        - {x: -63.819702, y: -59.003616}
+        - {x: -60.819702, y: -60.003616}
+        - {x: 62.180298, y: -60.003616}
+        - {x: 64.1803, y: -52.003616}
+        - {x: 64.1803, y: 60.996384}
+    - name: snake_8
+      rect:
+        serializedVersion: 2
+        x: 7522
+        y: 936
+        width: 654
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.572876, y: 60.996384}
+        - {x: -65.572876, y: -23.003616}
+        - {x: -65.572876, y: -60.003616}
+        - {x: 54.427124, y: -60.003616}
+        - {x: 68.427124, y: -58.003616}
+        - {x: 68.427124, y: 57.996384}
+        - {x: 57.427124, y: 60.996384}
+    - name: snake_9
+      rect:
+        serializedVersion: 2
+        x: 8431
+        y: 936
+        width: 692
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.39966, y: 59.496384}
+        - {x: -21.600342, y: 59.496384}
+        - {x: -69.60034, y: -8.503616}
+        - {x: -69.60034, y: -58.503616}
+        - {x: 51.39966, y: -58.503616}
+        - {x: 63.39966, y: -46.503616}
+        - {x: 72.39966, y: -7.5036163}
+        - {x: 72.39966, y: 40.496384}
+    - name: snake_10
+      rect:
+        serializedVersion: 2
+        x: 9402
+        y: 936
+        width: 598
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.943359, y: 58.496384}
+        - {x: -59.94336, y: -38.503616}
+        - {x: -59.94336, y: -57.503616}
+        - {x: 62.05664, y: -57.503616}
+        - {x: 62.05664, y: 58.496384}
+    - name: snake_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 522
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.407211, y: 58}
+        - {x: -53.40721, y: -8}
+        - {x: -53.40721, y: -58}
+        - {x: 50.59279, y: -58}
+        - {x: 54.59279, y: -56}
+        - {x: 54.59279, y: 38}
+        - {x: 43.59279, y: 58}
+    - name: snake_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 515
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.593445, y: 59}
+        - {x: -52.593445, y: 44}
+        - {x: -52.593445, y: -59}
+        - {x: 53.406555, y: -59}
+        - {x: 53.406555, y: 55}
+        - {x: 49.406555, y: 59}
+    - name: snake_13
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 809
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.08261, y: 65}
+        - {x: 6.082611, y: 65}
+        - {x: -46.91739, y: 33}
+        - {x: -82.91739, y: -39}
+        - {x: -82.91739, y: -65}
+        - {x: 7.082611, y: -65}
+        - {x: 59.08261, y: -50}
+        - {x: 83.08261, y: 1}
+        - {x: 83.08261, y: 52}
+    - name: snake_14
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 0
+        width: 882
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90.6449, y: 12}
+        - {x: 71.6449, y: 58}
+        - {x: 11.644897, y: 58}
+        - {x: -90.3551, y: -28}
+        - {x: -90.3551, y: -58}
+        - {x: -10.355103, y: -58}
+        - {x: 64.6449, y: -44}
+        - {x: 78.6449, y: -26}
+        - {x: 90.6449, y: -10}
+    - name: snake_15
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 0
+        width: 869
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.812805, y: 44.5}
+        - {x: -88.812805, y: -3.5}
+        - {x: -88.812805, y: -44.5}
+        - {x: 3.1871948, y: -44.5}
+        - {x: 66.187195, y: -33.5}
+        - {x: 90.187195, y: -5.5}
+        - {x: 90.187195, y: 44.5}
+    - name: snake_16
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 0
+        width: 663
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.11963, y: 42.5}
+        - {x: 66.11963, y: 56.5}
+        - {x: -0.8803711, y: 56.5}
+        - {x: -67.88037, y: -40.5}
+        - {x: -67.88037, y: -56.5}
+        - {x: 46.11963, y: -56.5}
+        - {x: 49.11963, y: -52.5}
+        - {x: 68.11963, y: -11.5}
+        - {x: 69.11963, y: -9.5}
+    - name: snake_17
+      rect:
+        serializedVersion: 2
+        x: 5667
+        y: 0
+        width: 512
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.587524, y: 59}
+        - {x: -52.587524, y: 10}
+        - {x: -52.587524, y: -59}
+        - {x: 53.412476, y: -59}
+        - {x: 53.412476, y: 43}
+        - {x: 48.412476, y: 59}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
