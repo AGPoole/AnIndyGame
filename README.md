@@ -23,4 +23,4 @@ Instructions on how to play the game are included in the tutorial level. I'd rec
 
 - Create own version of enemy images
 
-I will not be adding more features or levels, as I would like to move on to a new project. However, if you come across any issues or bugs, feel free to email me at anthony.poole@oriel.ox.ac.uk.
+I will not be adding more features or levels, as I would like to move on to a new project.
